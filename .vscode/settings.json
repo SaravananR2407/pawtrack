@@ -1,0 +1,9 @@
+{
+    "cmake.ignoreCMakeListsMissing": true,
+
+    "dart.flutterSdkPath": "C:\\flutter",
+    "dart.flutterSdkPaths": [
+        "C:\\flutter"
+    ],
+    "dart.sdkPath": "C:\\flutter\\bin\\cache\\dart-sdk"
+}
